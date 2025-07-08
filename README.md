@@ -19,23 +19,6 @@ This is a modern React boilerplate using Vite, TailwindCSS, and useful libraries
 
 ---
 
-## 📁 Project Structure
-
-sharifdev/
-├── public/ # Static assets
-├── src/
-│ ├── components/ # Reusable components
-│ ├── App.jsx # Root component
-│ ├── main.jsx # React entry point
-│ └── index.css # Tailwind + global styles
-├── tailwind.config.js # Tailwind configuration
-├── postcss.config.cjs # PostCSS config (CJS for compatibility)
-├── vite.config.js # Vite config
-├── package.json # Project metadata and dependencies
-└── README.md # Project documentation
-
----
-
 ## 🔧 Setup Instructions
 
 ### 1. Clone the repository
